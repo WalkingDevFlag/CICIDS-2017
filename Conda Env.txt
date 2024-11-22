@@ -1,0 +1,16 @@
+Conda Env:
+
+1) conda create -n cicids python=3.9
+
+2) conda activate cicids
+
+3) pip install install numpy pandas seaborn matplotlib scikit-learn tensorflow
+
+4) pip install missingno imbalanced-learn wget
+
+5) pip install jupyter notebook
+
+6) pip install ipykernel
+
+7) python -m ipykernel install --user --name=cicids
+
