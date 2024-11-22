@@ -21,7 +21,4 @@ Ensure you have the necessary libraries installed, such as `pandas`, `numpy`, `s
 ## License
 This project is licensed under the MIT License.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/6288048/30c75a8e-1fe6-4a37-9afe-a85ea5b54b21/CICIDS_Dataset.ipynb
-
 
