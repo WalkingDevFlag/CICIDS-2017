@@ -10,7 +10,6 @@ This repository contains Jupyter notebooks designed for analyzing the CICIDS 201
   - **Binary Classification**: Logistic Regression and Support Vector Machine.
   - **Multi-Class Classification**: K-Nearest Neighbors, Random Forest, Decision Tree.
   - **Deep Learning**: Multi-Layer Perceptron, Convolutional Neural Network, Deep Neural Network for both binary and multi-class tasks.
-  - **Autoencoder**: For unsupervised learning applications. (in-progress)
 
 ## Usage
 Clone the repository and open the Jupyter notebooks to start analyzing the dataset. Follow the instructions within each notebook to execute the code and interpret the results.
